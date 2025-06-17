@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 
 # 🔐 Настройки
-BOT_TOKEN = os.getenv("BOT_TOKEN")'
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = 467438413  # ← Укажите ваш Telegram ID от @userinfobot
 # ADMIN_ID = 320352130  # ← Укажите ваш Telegram ID от @userinfobot
 
